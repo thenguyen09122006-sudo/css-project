@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+header {
+  background-color: #2c3e50;
+  padding: 1rem;
+}
+
+nav {
+  background-color: #34495e;
+}
+
+main {
+  background-color: #ffffff;
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+footer {
+  background-color: #2c3e50;
+  color: #ffffff;
+  padding: 1rem;
+}
+
+li {
+  display: inline-block;
+  width: 150px;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+}
+
+p {
+  line-height: 1.6;
+}
